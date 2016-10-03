@@ -1,0 +1,7 @@
+{
+  "extends": "netliferesearch/react",
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}

@@ -1,0 +1,45 @@
+* {
+    box-sizing : border-box;
+}
+
+body {
+    font-family: 'Source Code Pro', monospace;
+    background: #eee;
+}
+
+a {
+    color: blue;
+    text-decoration: none;
+}
+
+a p {
+    color: black;
+}
+
+img {
+    width: 200px;
+    float: right;
+}
+
+input {
+    padding: 1rem;
+    font-size: 2rem;
+    display: block;
+    width: 100%;
+}
+
+input:focus {
+    outline: none;
+}
+
+ul {
+    list-style: none;
+    padding-left: 0;
+}
+
+ul li {
+    background: white;
+    padding: 1rem 2rem;
+    margin-bottom: 1rem;
+    overflow: auto;
+}
